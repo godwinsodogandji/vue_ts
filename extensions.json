@@ -1,0 +1,359 @@
+[
+  {
+    "identifier": {
+      "id": "esbenp.prettier-vscode",
+      "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+    },
+    "version": "10.4.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/esbenp.prettier-vscode-10.4.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "esbenp.prettier-vscode-10.4.0",
+    "metadata": {
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
+      "publisherDisplayName": "Prettier",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1719415067172,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "bmewburn.vscode-intelephense-client",
+      "uuid": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0"
+    },
+    "version": "1.10.4",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/bmewburn.vscode-intelephense-client-1.10.4",
+      "scheme": "file"
+    },
+    "relativeLocation": "bmewburn.vscode-intelephense-client-1.10.4",
+    "metadata": {
+      "id": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0",
+      "publisherId": "3209eeb0-2b1a-4484-8c83-2627b29db88e",
+      "publisherDisplayName": "Ben Mewburn",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1719563879755,
+      "pinned": false,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "liviuschera.noctis",
+      "uuid": "d4e2a48f-0b88-4540-92c5-a4ab4dd2c813"
+    },
+    "version": "10.43.3",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/liviuschera.noctis-10.43.3",
+      "scheme": "file"
+    },
+    "relativeLocation": "liviuschera.noctis-10.43.3",
+    "metadata": {
+      "id": "d4e2a48f-0b88-4540-92c5-a4ab4dd2c813",
+      "publisherId": "676e5383-8870-48a9-80bb-67ae23e9228c",
+      "publisherDisplayName": "Liviu Schera",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1720107796230,
+      "pinned": false,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "inferrinizzard.prettier-sql-vscode",
+      "uuid": "386997b1-f715-42f5-91e4-618a439c19b8"
+    },
+    "version": "1.6.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/inferrinizzard.prettier-sql-vscode-1.6.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "inferrinizzard.prettier-sql-vscode-1.6.0",
+    "metadata": {
+      "id": "386997b1-f715-42f5-91e4-618a439c19b8",
+      "publisherId": "d7770145-2e17-4ef8-b7b4-686f2f8bee16",
+      "publisherDisplayName": "inferrinizzard",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1721474164901,
+      "pinned": false,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "cweijan.dbclient-jdbc",
+      "uuid": "1fe0d785-8db6-44ef-8113-cb0d98a88473"
+    },
+    "version": "1.3.5",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/cweijan.dbclient-jdbc-1.3.5",
+      "scheme": "file"
+    },
+    "relativeLocation": "cweijan.dbclient-jdbc-1.3.5",
+    "metadata": {
+      "id": "1fe0d785-8db6-44ef-8113-cb0d98a88473",
+      "publisherId": "43004267-e6e4-497f-b826-dda371e4ec49",
+      "publisherDisplayName": "Weijan Chen",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1721474208286,
+      "pinned": false,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "vue.volar",
+      "uuid": "a95ee795-1576-4ffa-acda-8d6e6a95c584"
+    },
+    "version": "2.0.28",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/vue.volar-2.0.28",
+      "scheme": "file"
+    },
+    "relativeLocation": "vue.volar-2.0.28",
+    "metadata": {
+      "id": "a95ee795-1576-4ffa-acda-8d6e6a95c584",
+      "publisherId": "49983e2f-38ad-4441-beea-d678b53d0549",
+      "publisherDisplayName": "Vue",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1721635221908,
+      "pinned": false,
+      "preRelease": false,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.remote-server",
+      "uuid": "105c0b3c-07a9-4156-a4fc-4141040eb07e"
+    },
+    "version": "1.5.2",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/ms-vscode.remote-server-1.5.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode.remote-server-1.5.2",
+    "metadata": {
+      "id": "105c0b3c-07a9-4156-a4fc-4141040eb07e",
+      "publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1721736211410,
+      "pinned": false,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode-remote.remote-ssh",
+      "uuid": "607fd052-be03-4363-b657-2bd62b83d28a"
+    },
+    "version": "0.112.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/ms-vscode-remote.remote-ssh-0.112.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode-remote.remote-ssh-0.112.0",
+    "metadata": {
+      "id": "607fd052-be03-4363-b657-2bd62b83d28a",
+      "publisherId": "ac9410a2-0d75-40ec-90de-b59bb705801d",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1721736283891,
+      "pinned": false,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode-remote.remote-ssh-edit",
+      "uuid": "bfeaf631-bcff-4908-93ed-fda4ef9a0c5c"
+    },
+    "version": "0.86.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.86.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "ms-vscode-remote.remote-ssh-edit-0.86.0",
+    "metadata": {
+      "id": "bfeaf631-bcff-4908-93ed-fda4ef9a0c5c",
+      "publisherId": "ac9410a2-0d75-40ec-90de-b59bb705801d",
+      "publisherDisplayName": "Microsoft",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1721736283895,
+      "pinned": false,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "pkief.material-icon-theme",
+      "uuid": "5db78037-f674-459f-a236-db622c427c5b"
+    },
+    "version": "5.8.0",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/pkief.material-icon-theme-5.8.0",
+      "scheme": "file"
+    },
+    "relativeLocation": "pkief.material-icon-theme-5.8.0",
+    "metadata": {
+      "id": "5db78037-f674-459f-a236-db622c427c5b",
+      "publisherId": "f9e5bc2f-fea1-4075-917f-d83e01e69f56",
+      "publisherDisplayName": "Philipp Kief",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1721924626403,
+      "pinned": false,
+      "preRelease": false,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "cweijan.vscode-database-client2",
+      "uuid": "6ba92c55-a4a0-43f8-8aeb-cc3a03558814"
+    },
+    "version": "7.5.7",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/cweijan.vscode-database-client2-7.5.7",
+      "scheme": "file"
+    },
+    "relativeLocation": "cweijan.vscode-database-client2-7.5.7",
+    "metadata": {
+      "id": "6ba92c55-a4a0-43f8-8aeb-cc3a03558814",
+      "publisherId": "43004267-e6e4-497f-b826-dda371e4ec49",
+      "publisherDisplayName": "Weijan Chen",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "installedTimestamp": 1722265162440,
+      "preRelease": false
+    }
+  },
+  {
+    "identifier": {
+      "id": "postman.postman-for-vscode",
+      "uuid": "48fcb244-71c2-4877-aed3-29b36098a411"
+    },
+    "version": "1.2.1",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/postman.postman-for-vscode-1.2.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "postman.postman-for-vscode-1.2.1",
+    "metadata": {
+      "id": "48fcb244-71c2-4877-aed3-29b36098a411",
+      "publisherId": "9695bb25-5f5c-4d1a-ab08-1a93213436c1",
+      "publisherDisplayName": "Postman",
+      "targetPlatform": "undefined",
+      "isApplicationScoped": false,
+      "updated": true,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1722435524885,
+      "pinned": false,
+      "preRelease": false,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "angular.ng-template",
+      "uuid": "a92d457e-6f3f-4167-8087-1a54e1b6e00e"
+    },
+    "version": "18.1.2",
+    "location": {
+      "$mid": 1,
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/angular.ng-template-18.1.2",
+      "scheme": "file"
+    },
+    "relativeLocation": "angular.ng-template-18.1.2",
+    "metadata": {
+      "id": "a92d457e-6f3f-4167-8087-1a54e1b6e00e",
+      "publisherId": "5a69cff0-bd3b-4074-999f-4952fc2b037a",
+      "publisherDisplayName": "Angular",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1722532900434,
+      "pinned": false,
+      "source": "gallery"
+    }
+  },
+  {
+    "identifier": {
+      "id": "alexcvzz.vscode-sqlite",
+      "uuid": "eaee103c-e866-4b73-87f8-3749cab64da2"
+    },
+    "version": "0.14.1",
+    "location": {
+      "$mid": 1,
+      "fsPath": "c:\\Users\\godwin.sodogandji\\.vscode\\extensions\\alexcvzz.vscode-sqlite-0.14.1",
+      "_sep": 1,
+      "external": "file:///c%3A/Users/godwin.sodogandji/.vscode/extensions/alexcvzz.vscode-sqlite-0.14.1",
+      "path": "/c:/Users/godwin.sodogandji/.vscode/extensions/alexcvzz.vscode-sqlite-0.14.1",
+      "scheme": "file"
+    },
+    "relativeLocation": "alexcvzz.vscode-sqlite-0.14.1",
+    "metadata": {
+      "id": "eaee103c-e866-4b73-87f8-3749cab64da2",
+      "publisherId": "6effff99-3dc3-4943-9e90-5cd2ee65a1ea",
+      "publisherDisplayName": "alexcvzz",
+      "targetPlatform": "undefined",
+      "updated": false,
+      "isPreReleaseVersion": false,
+      "hasPreReleaseVersion": false,
+      "installedTimestamp": 1722592883426,
+      "pinned": false,
+      "source": "gallery"
+    }
+  }
+]
